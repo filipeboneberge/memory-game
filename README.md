@@ -14,7 +14,7 @@
   <li>Compara se emojis são iguais </li>
   <li>Se for iguai permanece a carta mostrando os emojis</li>
   <li>Se não for igual retorna não mostrando os emojis</li>
-  <li>É Ppossível resetar o jogo antes de finalizar caso tenha dificuldade de encontrar as combinações</li>
+  <li>É possível resetar o jogo antes de finalizar caso tenha dificuldade de encontrar as combinações</li>
 </ul>
    
 <br>
@@ -24,7 +24,7 @@ Quando termina o tempo do jogo
   <li>Reinicia o jogo após o clique no alerta de Você Venceu!</li>
 </ul>
 
-![Mockup Detona Ralf Game](https://filipeboneberge.github.io/detona-ralf-game/src/images/laptop_phone_mockup.png)
+
 
 <h2>:computer:Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
