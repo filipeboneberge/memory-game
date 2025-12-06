@@ -24,7 +24,7 @@ Quando termina o tempo do jogo
   <li>Reinicia o jogo após o clique no alerta de Você Venceu!</li>
 </ul>
 
-
+![Mockup Memory Game](https://filipeboneberge.github.io/memory-game/src/img/laptop_phone_mockup.png)
 
 <h2>:computer:Tecnologias Utilizadas</h2>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
